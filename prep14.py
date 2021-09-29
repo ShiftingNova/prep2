@@ -5,4 +5,4 @@ def calculate_tree_height(height, year):
         total = total * 1.2
         i+=1
         total = round(total,4)
-    print(total)
+    return(total)
